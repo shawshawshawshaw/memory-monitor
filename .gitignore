@@ -1,19 +1,14 @@
+# Swift build
+MemoryMonitor/.build/
+.swiftpm/
+
 # Python
 __pycache__/
-*.py[cod]
-*.so
+*.pyc
 venv/
-.Python
-build/
 dist/
+build/
 *.egg-info/
 
 # macOS
 .DS_Store
-
-# IDE
-.idea/
-.vscode/
-
-# 用户配置
-user_config.json
